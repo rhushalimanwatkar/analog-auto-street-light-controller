@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/159613b3-c791-4ed3-8849-e88bb78961e4
 | :--- | :--- | :---: |
 | **LDR** | Light Dependent Resistor (Photoresistor) | 1 |
 | **NPN Transistor** | BC547 (or NPN equivalent solid-state switch) | 1 |
-| **Resistors** | 10kΩ / 100kΩ (Voltage divider / Base current limit) | 2 |
+| **Resistors** | 10kΩ  | 1 |
 | **LED** | 5mm LED (Simulating the Street Light) | 1 |
 | **Power Supply** | 9V DC Battery / Power Source | 1 |
 | **Breadboard & Wires** | Connecting jumper wires | — |
