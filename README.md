@@ -7,7 +7,10 @@ Here is a quick video demonstration of the circuit in operation:
 
 https://github.com/user-attachments/assets/159613b3-c791-4ed3-8849-e88bb78961e4
 
-*(Note: If the video player above does not render in your browser, you can view or download the raw video file [here](demo.mp4)).*
+*(Note: If the video player above does not render in your browser, you can view or download the raw video file [here](## 📽️ Project Video Demo
+
+Here is a quick video demonstration of the circuit in operation:
+)).*
 
 ---
 
